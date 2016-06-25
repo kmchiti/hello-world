@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>tilable-img_0044-lush.png</file>
+        <file>rifle.png</file>
+        <file>shotgun.png</file>
+        <file>bullet1.png</file>
+        <file>bullet2.png</file>
+        <file>walker.png</file>
+        <file>shooting.png</file>
+        <file>dirt1.png</file>
+        <file>arrow.png</file>
+        <file>turrets.png</file>
+        <file>turrets2.png</file>
+        <file>turrets3.png</file>
+        <file>back1.png</file>
+    </qresource>
+</RCC>
