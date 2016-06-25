@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>10 Guage Shotgun-SoundBible.com-74120584.wav</file>
+        <file>Futuristic SMG Single Shot.wav</file>
+    </qresource>
+</RCC>
